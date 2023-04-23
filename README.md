@@ -1,2 +1,2 @@
 # Spotify_Clone
-D:/Spotify/index.html
+spotify-music-clone-website.netlify.app
